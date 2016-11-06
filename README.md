@@ -1,2 +1,2 @@
 # python-przyklady
-Projekt zawierający przykładowy kod Pythona. 
+Projekt zawierający materiały do nauki Pythona. 
